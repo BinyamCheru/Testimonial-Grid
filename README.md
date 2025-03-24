@@ -6,8 +6,8 @@ A responsive testimonial grid built with **Tailwind CSS**. This project showcase
 
 <div align="center">
   <div style="display: flex; gap: 10px;">
-    <img src="https://github.com/BinyamCheru/Testimonial-Grid/blob/master/grid%20desktop.png" alt="Desktop Preview" width="100%">
-    <img src="https://github.com/BinyamCheru/Testimonial-Grid/blob/master/grid%20mobile.png" alt="Mobile Preview" width="100%">
+    <img src="https://github.com/BinyamCheru/Testimonial-Grid/blob/master/grid%20desktop.png" alt="Desktop Preview" width="50%">
+    <img src="https://github.com/BinyamCheru/Testimonial-Grid/blob/master/grid%20mobile.png" alt="Mobile Preview" width="50%">
   </div>
 </div>
 
